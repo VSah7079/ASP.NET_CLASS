@@ -11,7 +11,8 @@
         <div>
             <h1>Hello World!!!</h1>
            Name:<input type="text" name="name" placeholder="Enter your name"><br/><br/>
-           Email:<input type="email" name="email" placeholder="Enter your Emailid">
+           Email:<input type="email" name="email" placeholder="Enter your Email id"><br/>
+           Address:<input type="text" name="add" placeholder="Enter your address"> 
         </div>
     </form>
 </body>
