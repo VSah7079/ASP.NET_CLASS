@@ -10,10 +10,13 @@
     <form id="form1" runat="server">
         <div>
             <h1>Hello World!!!</h1>
-           Name:<input type="text" name="name" placeholder="Enter your name"><br/><br/>
-           Email:<input type="email" name="email" placeholder="Enter your Email id"><br/>
-           Address:<input type="text" name="add" placeholder="Enter your address"> 
+           Name:<input type="text" name="name" placeholder="Enter your name"/><br/><br/>
+           Email:<input type="email" name="email" placeholder="Enter your Email id"/><br/><br/>
+           Address:<input type="text" name="add" placeholder="Enter your address"/> 
         </div>
+        <div>&nbsp;</div>
+        <div>
+            <asp:Button runat="server" Text="Submit" OnClick="Unnamed1_Click"></asp:Button>&nbsp;</div>
     </form>
 </body>
 </html>

@@ -13,5 +13,10 @@ namespace firstproject
         {
 
         }
+
+        protected void Unnamed1_Click(object sender, EventArgs e)
+        {
+            Response.Write("Welcome New Syllabus");
+        }
     }
 }
