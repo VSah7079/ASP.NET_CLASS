@@ -10,7 +10,8 @@
     <form id="form1" runat="server">
         <div>
             <h1>Hello World!!!</h1>
-           Name:<input type="text" name="name" placeholder="Enter your name">
+           Name:<input type="text" name="name" placeholder="Enter your name"><br/><br/>
+           Email:<input type="email" name="email" placeholder="Enter your Emailid">
         </div>
     </form>
 </body>
